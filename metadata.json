@@ -1,0 +1,6 @@
+{
+  "name": "SamTechnologies",
+  "description": "Software Development and GenAI Engineering Studio by Samuel Essuman. Full-stack web systems, mobile apps, learning platforms, and production AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
